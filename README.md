@@ -2,7 +2,7 @@
 
 Supplementary data and scripts for a manuscript by
 M Klöwer, M Allen, D Lee, SR Proud, L Gallagher and A Skowron,
-submitted.
+submitted to Nature Climate Change.
 
 Aviation is on track to cause 0.1˚C of warming by 2050, despite a slowdown
 due to COVID-19. An annual 2% decrease in flights or an overambitious 90%
