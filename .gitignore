@@ -1,1 +1,4 @@
 .DS_Store
+data/fuel_co2.csv
+.ipynb_checkpoints
+scripts/.ipynb_checkpoints
