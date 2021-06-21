@@ -4,7 +4,7 @@ Supplementary data and scripts for a manuscript by
 M Klöwer, M Allen, D Lee, SR Proud, L Gallagher and A Skowron,
 submitted.
 
-Growth in aviation contributes more to global warming than is generally
+**Growth in aviation contributes more to global warming than is generally
 appreciated because of the mix of climate pollutants it generates: aviation
 contributed approximately 4% to observed human-induced global warming to date,
 despite being responsible for only 2.4% of global annual emissions of CO2.
@@ -17,7 +17,7 @@ to only delay aviation’s warming contribution by about 5 years. But the levera
 impact of growth also represents an opportunity: Aviation’s contribution to further
 warming would be immediately halted by either a sustained annual 2.5% decrease in
 flights under the existing fuel mix, or a transition to a 90% carbon-neutral fuel
-mix by 2050.
+mix by 2050.**
 
 Data can be found in [`/data`](https://github.com/milankl/FlyingClimate/tree/main/data)
 and the main analyis and plotting notebook is
