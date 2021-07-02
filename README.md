@@ -1,8 +1,9 @@
 # Quantifying aviation’s contribution to global warming
 
-Supplementary data and scripts for a manuscript by
-M Klöwer, M Allen, D Lee, SR Proud, L Gallagher and A Skowron,
-submitted.
+Supplementary data and scripts for a manuscript
+
+M Klöwer, M Allen, D Lee, SR Proud, L Gallagher and A Skowron, in review. preprint [10.1002/essoar.10507359.1](https://www.essoar.org/doi/10.1002/essoar.10507359.1)
+
 
 **Growth in aviation contributes more to global warming than is generally
 appreciated because of the mix of climate pollutants it generates: aviation
