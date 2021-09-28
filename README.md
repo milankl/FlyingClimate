@@ -1,4 +1,5 @@
 # Quantifying aviation’s contribution to global warming
+[![DOI](https://zenodo.org/badge/314593749.svg)](https://zenodo.org/badge/latestdoi/314593749)
 
 Supplementary data and scripts for
 
